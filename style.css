@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+}
+body {
+  background-color: #c5dec4;
+}
+nav{
+  text-align: center;
+  width: 49%;
+  display: inline-block;
+}
+li{
+  display: inline-block;
+}
+h1.log{
+  font-family: 'Montserrat', sans-serif;
+}
+.left{
+width: 49%;
+display: inline-block;
+}
+.right{
+  width: 49%;
+  display: inline-block;
+}
+img{
+  width: 450px;
+}
+.logo{
+  width: 49%;
+  display: inline-block;
+}
+.foo_left{
+width: 49%;
+display: inline-block;
+}
+.foo_right{
+  width: 49%;
+  display:inline-block;
+  text-align: right;
+  font-size: 2em;
+}
+.container{
+  width: 50%;
+  margin: 0 auto;
+  background-color: white;
+}
